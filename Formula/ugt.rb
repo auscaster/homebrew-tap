@@ -5,23 +5,23 @@ class Ugt < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/auscaster/ugt/releases/download/v0.2.2/ugt-darwin-arm64"
-      sha256 "ff5fb73f0ac62365dc70a4da4f5023c3de340ede0ee9a467a47bbe15d490abce"
+      url "https://github.com/auscaster/ugt/releases/download/v0.3.0/ugt-darwin-arm64"
+      sha256 "0dabf1b7b7c464771e8bd41e2e14f45cf8b2eafd2fb19db8f35515b93fa4f4e7"
     end
     on_intel do
-      url "https://github.com/auscaster/ugt/releases/download/v0.2.2/ugt-darwin-amd64"
-      sha256 "e133340fea536674647c9f01ffa1ae0bcf30fb845f178053029bbe2b31e29687"
+      url "https://github.com/auscaster/ugt/releases/download/v0.3.0/ugt-darwin-amd64"
+      sha256 "167a9162f32e16e624ef04123d58bbca503921d05ce22b1c14567ebd96feb868"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/auscaster/ugt/releases/download/v0.2.2/ugt-linux-arm64"
-      sha256 "aa6a7b15259880c3dda81a6b827256667d74c1ef7fe972238392ec753a5ed661"
+      url "https://github.com/auscaster/ugt/releases/download/v0.3.0/ugt-linux-arm64"
+      sha256 "66c6b237fa674797507229ff5d0a5f90e3cb801853095071d920cecccbde7c13"
     end
     on_intel do
-      url "https://github.com/auscaster/ugt/releases/download/v0.2.2/ugt-linux-amd64"
-      sha256 "d1fece69b8f213decf6342648ffa0b90fd945bceafcd5f9cdd90929d8aa1aef6"
+      url "https://github.com/auscaster/ugt/releases/download/v0.3.0/ugt-linux-amd64"
+      sha256 "bac32cf47dc8b1393772cc60d67200dc17b35a2250efda5a412cd4ad3dc02f71"
     end
   end
 
