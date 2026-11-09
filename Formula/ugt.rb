@@ -1,6 +1,6 @@
 class Ugt < Formula
   desc "Get open-source GitHub projects running on your computer, with your AI app"
-  homepage "https://usegithubthing.com"
+  homepage "https://usegeekthing.com"
   license "Apache-2.0"
 
   on_macos do
