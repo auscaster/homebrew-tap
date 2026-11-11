@@ -5,23 +5,23 @@ class Ugt < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/usegeekthing/ugt/releases/download/v0.3.2/ugt-darwin-arm64"
-      sha256 "ba3db945063fc0148f28a10beff0ce698978c5cd0cdd20bc98e816429884c535"
+      url "https://github.com/usegeekthing/ugt/releases/download/v0.3.3/ugt-darwin-arm64"
+      sha256 "d1326d290014a607d060c3b623bada51ee35119cb74fc423e06049c5e8c8ddea"
     end
     on_intel do
-      url "https://github.com/usegeekthing/ugt/releases/download/v0.3.2/ugt-darwin-amd64"
-      sha256 "4853a37180dc6e21a0b3a6a360bb52f3eb20a56f8d5150887c3fd3580fd12253"
+      url "https://github.com/usegeekthing/ugt/releases/download/v0.3.3/ugt-darwin-amd64"
+      sha256 "9b14ae767b2972a05d71be21ace9c6ffcafacbc93f9fe00da29b0b66d8c54f7f"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/usegeekthing/ugt/releases/download/v0.3.2/ugt-linux-arm64"
-      sha256 "016439e9588d1dd31f075e29504ae761b6d26b278a5641afb5c4601e0b8a6e62"
+      url "https://github.com/usegeekthing/ugt/releases/download/v0.3.3/ugt-linux-arm64"
+      sha256 "c85516b314114307742a59319f553d3bc31f7fe3341a4ef3e23389dadaa4f4b7"
     end
     on_intel do
-      url "https://github.com/usegeekthing/ugt/releases/download/v0.3.2/ugt-linux-amd64"
-      sha256 "edb413199f9c1800a4c2458ec559bba6f9429a74a739ad06c12c47130e4fa26f"
+      url "https://github.com/usegeekthing/ugt/releases/download/v0.3.3/ugt-linux-amd64"
+      sha256 "a4391e5d7ced8a274790b36f1c40b99016daa41f1595bf7bc50e813d2a82af82"
     end
   end
 
